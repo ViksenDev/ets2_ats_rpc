@@ -44,11 +44,6 @@ Download [latest release](https://github.com/Tarasa24/SCS_RPC2/releases), copy t
 
 Plugin is automatically run upon the game start.
 
-## Contact
-
-In case of any question hit me up on Discord **Tarasa24**#1761
-
----
 
 ###### Acknowledgement
 

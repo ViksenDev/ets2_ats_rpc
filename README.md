@@ -4,3 +4,5 @@
 Discord Rich Presence plugin for ETS2 and ATS
 </center>
 </br>
+
+Work in progress
